@@ -1,2 +1,2 @@
 # lp.sophos.com
-Test Subdomain Takeover
+Subdomain Takeover
