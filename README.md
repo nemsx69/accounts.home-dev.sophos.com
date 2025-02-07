@@ -1,2 +1,2 @@
-# accounts.home-dev.sophos.com
+# lp.sophos.com
 Test Subdomain Takeover
